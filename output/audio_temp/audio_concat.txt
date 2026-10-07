@@ -1,0 +1,5 @@
+file 'D:/agentic-social-media-ai/audio/scene_1.mp3'
+file 'D:/agentic-social-media-ai/audio/scene_2.mp3'
+file 'D:/agentic-social-media-ai/audio/scene_3.mp3'
+file 'D:/agentic-social-media-ai/audio/scene_4.mp3'
+file 'D:/agentic-social-media-ai/audio/scene_5.mp3'
